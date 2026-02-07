@@ -3,7 +3,7 @@
 This repository contains a comprehensive data analysis project focused on disaster events. The project aims to uncover patterns, trends, and insights related to different types of disasters using Python-based analysis and Power BI visualizations.
 
 ## 📁 Project Files
-
+- `disaster_Events_2025.csv` - Data set of Disasters Occured upto 2025
 - `disaster_analysis.ipynb` – Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), and visual insights  
 - `disaster-events-report.pbix` – Interactive Power BI dashboard for disaster analysis  
 - `README.md` – Project documentation  
